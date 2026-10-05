@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="Le Charcutier" height="80"></p>
+
 # Le Charcutier – In-Store Leasing
 
 Project for leasing space (counters, stands, or sections) inside the Le Charcutier store.
